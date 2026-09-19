@@ -1077,13 +1077,7 @@ section {
   }
 
   .home img {
-    display: block;
-    width: 58vw;
-    right: -5rem;
-    bottom: 8rem;
-    max-height: 48vh;
-    object-fit: contain;
-    opacity: 0.35;
+    display: none;
   }
 
   .home-sci {
